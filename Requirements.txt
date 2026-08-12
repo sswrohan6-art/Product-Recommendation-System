@@ -1,23 +1,32 @@
+# Product Recommendation System - Dependencies
+# Customized environment for sentiment analysis and collaborative filtering
+
 # Text processing and NLP libraries
 spacy==3.5.0
-en-core-web-sm==3.5.0  # Make sure to install via: python -m spacy download en_core_web_sm
+en-core-web-sm==3.5.0  # Language model - install via: python -m spacy download en_core_web_sm
 nltk==3.8.1
 textblob==0.17.1
 
-# Data manipulation and analysis libraries
+# Data manipulation and analysis
 numpy==1.23.5
 pandas==1.5.3
+scipy==1.10.1
 
-# Machine learning and feature extraction
+# Machine learning and advanced algorithms
 scikit-learn==1.2.2
 xgboost==1.7.6
-imblearn==0.10.1  # SMOTE
+imblearn==0.10.1  # SMOTE for handling imbalanced datasets
 
-# Visualization libraries
+# Visualization and reporting
 matplotlib==3.6.2
 seaborn==0.12.1
 plotly==5.11.0
 wordcloud==1.8.2.2
+ipython==8.10.0
+
+# Additional utilities
+jupyter==1.0.0
+ipykernel==6.20.2
 
 # Model saving and loading
 pickle-mixin==1.0.2

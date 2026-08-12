@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project builds a **Product Recommendation System** powered by **Sentiment Analysis** to provide highly accurate recommendations. it combines **collaborative filtering** with **sentiment scores** derived from product reviews, using Machine Learning (ML) and Natural Language Processing (NLP) techniques for enhanced recommendation quality.
+A comprehensive machine learning solution that leverages sentiment analysis to deliver personalized product recommendations. This system combines collaborative filtering algorithms with sentiment-based scoring from customer reviews to improve recommendation accuracy and user satisfaction.
 
 ---
 
@@ -67,8 +67,8 @@ This project builds a **Product Recommendation System** powered by **Sentiment A
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/naman12072000/Product-recommendation-using-sentiment-analysis/edit/main/README.md
-   cd product-recommendation-sentiment-analysis
+   git clone https://github.com/sswrohan6-art/Product-Recommendation-System.git
+   cd Product-Recommendation-System
    ```
 
 2. **Install dependencies**:
@@ -95,11 +95,16 @@ This project builds a **Product Recommendation System** powered by **Sentiment A
 
 ---
 
-## 📬 Contact
+## 📬 Contact & Contributing
 
-Feel free to reach out for questions or support:
+For questions, suggestions, or contributions:
+- GitHub: [@sswrohan6-art](https://github.com/sswrohan6-art)
+- Feel free to fork this repository and submit pull requests
 
-- **Name**: Naman Nirbhaya
-- **Email**: namannirbhay9@gmail.com
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
 
 Happy recommending! 🌟
